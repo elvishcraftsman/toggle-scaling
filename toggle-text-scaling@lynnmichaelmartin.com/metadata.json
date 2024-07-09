@@ -1,0 +1,8 @@
+{
+  "name": "Toggle Text Scaling",
+  "description": "Add a quick settings button to toggle between two text scaling factors, such as if you are docking and undocking your laptop. The button has a dropdown where you can define the two different factors.",
+  "url": "https://lynnmichaelmartin.com",
+  "uuid": "toggle-text-scaling@lynnmichaelmartin.com",
+  "shell-version": [ "45", "46" ],
+  "version": 1
+}
